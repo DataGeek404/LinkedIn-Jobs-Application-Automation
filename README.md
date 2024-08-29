@@ -34,12 +34,6 @@ Connect with like-minded individuals and get the most out of AIHawk.
 
 🔔 **Stay updated:** Get the latest news and updates on AIHawk.
 
-<!-- Strong Call to Action -->
-### Join Now 👇
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/AIhawkCommunity)
-
-
 
 
 <!-- 🚀 **Join Our Telegram Community!** 🚀
