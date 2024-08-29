@@ -511,7 +511,7 @@ TODO ):
 - **Missing Files:** Verify that all necessary files are present in the data folder.
 - **Invalid YAML:** Check your YAML files for syntax errors.
 
-  If you encounter any issues, you can open an issue on [GitHub](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI/issues). I'll be more than happy to assist you!
+  If you encounter any issues, you can open an issue on [GitHub](https://(https://github.com/DataGeek404/linked-in-Jobs-App-Automation)issues). I'll be more than happy to assist you!
 
 ## Conclusion
 
@@ -519,14 +519,14 @@ LinkedIn_AIHawk provides a significant advantage in the modern job market by aut
 
 ## Contributors
 
-- [feder-cr](https://github.com/feder-cr) - Creator and Lead Developer
+- [DataGeek404](https://github.com/DataGeek404) -  Lead Developer
 
 LinkedIn_AIHawk is still in beta, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests to help improve the project. Let's work together to make LinkedIn_AIHawk an even more powerful tool for job seekers worldwide.
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+No Licence
 
 ## Disclaimer
 LinkedIn_AIHawk is developed for educational purposes only. The creator does not assume any responsibility for its use. Users should ensure they comply with LinkedIn's terms of service, any applicable laws and regulations, and ethical considerations when using this tool. The use of automated tools for job applications may have implications on user accounts, and caution is advised.
