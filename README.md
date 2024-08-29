@@ -1,7 +1,6 @@
 
 # LinkedIn_AIHawk
 
-###img src="./assets/linkedin_aihawk.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 <div align="center">
