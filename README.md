@@ -1,4 +1,7 @@
-<img src="./assets/linkedin_aihawk.png">
+
+# LinkedIn_AIHawk
+
+###img src="./assets/linkedin_aihawk.png">
 
 <!-- At first glance, the branding and messaging clearly conveys what to expect -->
 <div align="center">
@@ -9,6 +12,12 @@
 # LinkedIn_AIHawk
 
 #### 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
+
+</div>
+<br />
+
+<!-- Message Clarity -->
+## 🚀 Join the AIHawk Community 🚀 # 🤖🔍 Your AI-powered job search assistant. Automate applications, get personalized recommendations, and land your dream job faster.
 
 </div>
 <br />
