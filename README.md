@@ -511,7 +511,7 @@ TODO ):
 - **Missing Files:** Verify that all necessary files are present in the data folder.
 - **Invalid YAML:** Check your YAML files for syntax errors.
 
-  If you encounter any issues, you can open an issue on [GitHub](https://(https://github.com/DataGeek404/linked-in-Jobs-App-Automation)issues). I'll be more than happy to assist you!
+  If you encounter any issues, you can open an issue on [GitHub](https://(https://github.com/DataGeek404/linked-in-Jobs-App-Automation/issues)). I'll be more than happy to assist you!
 
 ## Conclusion
 
